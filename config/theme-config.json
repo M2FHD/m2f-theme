@@ -1,0 +1,6 @@
+{
+  "_comment": "M2F Remote Config - Refresh Config ในหน้า M2F Movie Settings",
+  "_important_note": "การเปลี่ยน api_url ครอบคลุมเฉพาะฝั่ง WordPress (PHP) เท่านั้น (license/sync)",
+  "api_url": "https://player.m2fmovie.com",
+  "player_script_url": "https://cdn.jsdelivr.net/gh/M2FHD/m2f-player@main/scripts/main-player.js"
+}
